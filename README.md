@@ -10,7 +10,7 @@
 
 ## What is the purpose of these SQL codes?
 
-#### The codes are intended to replicate (wherever possible) the metrics previously captured in the Short and Long Term Support (SALT) collection, using the Client Level Data, where there is an ongoing need for this insight. The code processes have been written to be as true to the original principles of SALT as possible and filter, process, de-duplicate and aggregate the data in a way that closest matches SALT.
+#### The codes are intended to replicate (wherever possible) the metrics previously captured in the Short and Long Term Support (SALT) collection, using the Client Level Data, where there is an ongoing need for this insight. The code processes have been written to be as true to the original principles of SALT as possible and filter, process, de-duplicate and aggregate the data in a way that closest matches SALT. Please refer to the Transformation Documentation linked above for more of an over-arching step-by-step guide on how the order and logic of the various coding processes created.
 
 
 ## How to apply them
